@@ -55,8 +55,8 @@ table {
   box-sizing: border-box;
 }
 
-$primary: #3581B8;
-$secondary: lighten(#EBE9E9, 15%);
+$primary: rgb(53, 66, 184);
+$secondary: lighten(rgb(233, 235, 235), 15%);
 $text: #525252;
 
 .container{
